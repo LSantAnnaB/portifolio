@@ -105,11 +105,10 @@ body{
 
 .rodape{
     color: var(--cor-primaria);
-    background-color: var(--cor-roda-pe);
-    padding: 8px;
+    padding: 4px;
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: 0.8rem;
     font-weight: 400;
 }
 
