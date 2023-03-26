@@ -21,7 +21,8 @@ body{
   
     box-sizing: border-box;
     background-color:var(--cor-primaria);
-    background-image: url('../assets/hand.webp');
+    background-image: url('../assets/background.png');
+    background-size: cover;
     background-repeat: no-repeat;
     color: var(--cor-secundaria);
 }
