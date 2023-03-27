@@ -113,7 +113,8 @@ body{
 }
 
 .apresentacao__imagem{
-    width: 80%;
+    width: 50%;
+    height: auto;
 }
 
 @media (max-width: 1200px) {
